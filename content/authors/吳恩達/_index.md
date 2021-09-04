@@ -1,75 +1,24 @@
 ---
-# Display name
-title: 吳恩達
-
-# Username (this should match the folder name)
-authors:
-- 吳恩達
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - name: SMTC
+    url: ""
+  - name: Aromatic
+    url: https://aromatec.biz/
+superuser: false
+authors:
+  - 吳恩達
+title: Shi Lei
+role: Senior Research Fellow
+avatar_filename: sl.jpg
+bio: ""
+interests: []
+social: []
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+  courses: []
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
 ---
+Dr. Shi Lei has more than 10 years of extensive experience and knowledge in novel hollow fiber membrane development for water purification and treatment. During his many years in R&D, he has published over 20 SCI-tracked journal publications and co-invented 6 patents/technical disclosures related to novel membrane fabrication. He was the most senior member of the research team led by Professor Wang Rong at Nanyang Technological University (NTU). The research team was the first in the world to develop “Thin-Film-Composite Forwards Osmosis Hollow Fiber Membranes” in 2010, and the team’s research achievements became renowned worldwide, for being at the forefront of Forward Osmosis technology development. The first leading-edge paper published by the team was even ranked among the top 25 most cited papers in the “Journal of Membrane Science” published since 2009.
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Shi led and participated in 6 major research projects, funded by government grants, as well as industrial sponsorships, covering various membrane-based technology research, including Membrane Contactor, Membrane Distillation, Forward Osmosis, Pressure Retard Osmosis and Low Pressure Nanofiltration. In 2013, he won the first prize at the “Prosper.Net-Scopus Young Scientist Award in Sustainability Development 2013”, and was offered the Prestigious Fellowship award by the Alexander Von Humbolt Foundation. This award is presented annually to young scientists or researchers, based in the Asia-Pacific region, who have made significant contributions in the area of Sustainable Development.
