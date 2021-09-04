@@ -31,6 +31,8 @@ design:
 
 
 SMTC research enquiries: Associate Professor Chong Tzyy Haur (Deputy Director) thchong@ntu.edu.sg  / (65) 6593 8126
+
 SMTC administrative enquires: Ms Zan Ong (Centre Manager) zanong@ntu.edu.sg / (65) 6592 1664
+
 SMTC lab safety enquires: Mr Joseph Kwan (Lab Manager) jzxkwan@ntu.edu.sg / (65) 6513 2393
 
