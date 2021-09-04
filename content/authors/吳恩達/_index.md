@@ -9,7 +9,7 @@ authors:
   - 吳恩達
 title: Shi Lei
 role: Senior Research Fellow
-avatar_filename: sl.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social: []
