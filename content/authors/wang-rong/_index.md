@@ -11,6 +11,8 @@ bio: Dr Rong Wang is a Full Professor and President’s Chair in Civil and
   Singapore (MEMSIS).
 social: []
 superuser: false
+user_groups:
+  - Principal Investigators
 ---
 <!--StartFragment-->
 
