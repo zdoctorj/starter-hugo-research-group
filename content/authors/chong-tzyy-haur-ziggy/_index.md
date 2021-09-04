@@ -1,5 +1,5 @@
 ---
-title: Chong Tzyy Haur, Ziggy
+title: Ziggy Chong Tzyy Haur
 role: Associate Professor, School of Civil and Environmental Engineering; Deputy
   Director, Singapore Membrane Technology Centre, Nanyang Environment and Water
   Research Institute (NEWRI-SMTC)
