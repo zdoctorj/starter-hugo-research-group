@@ -10,7 +10,7 @@ bio: Dr Rong Wang is a Full Professor and President’s Chair in Civil and
   Technology Centre (SMTC). She is the founding President of Membrane Society in
   Singapore (MEMSIS).
 social: []
-superuser: false
+superuser: true
 user_groups:
   - Principal Investigators
 ---
