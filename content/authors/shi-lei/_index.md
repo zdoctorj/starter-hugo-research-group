@@ -3,6 +3,9 @@ title: Shi Lei
 role: Senior Research Fellow
 avatar_filename: avatar.jpg
 social: []
+organizations:
+  - name: Aromatic
+    url: https://aromatec.biz
 superuser: false
 user_groups:
   - Researchers
