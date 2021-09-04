@@ -21,7 +21,7 @@ location: Online
 event: IDA Talks
 publishDate: 2021-08-19T00:00:00.000Z
 tags: []
-projects: null
+projects: []
 image:
   caption: ""
   focal_point: Right
