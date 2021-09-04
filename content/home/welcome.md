@@ -7,8 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Singapore Membrane Technology Centre (SMTC)
 hero_media: WR.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-The **SMTC Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The Singapore Membrane Technology Centre (SMTC) under the Nanyang Environment & Water Research Institute (NEWRI), at Nanyang Technological University (NTU) of Singapore, was established in January 2008 to do fundamental and applied research in membrane technology. In particular, it has a mission to be a world-class research centre in membranes for the environment, water, energy and cleaner production. This is achieved through combining multidisciplinary talents at NTU as well as working closely with government institutions, other universities and industry partners to bring the outcomes of the research activities to larger scale through collaborative projects.
