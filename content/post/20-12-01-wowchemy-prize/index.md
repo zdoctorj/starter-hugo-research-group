@@ -1,5 +1,5 @@
 ---
-title: Lim Yu Jie awarded 3rd prize for Poster
+title: Lim Yu Jie Awarded 3rd Prize for Poster
 date: 2021-01-13
 ---
 
