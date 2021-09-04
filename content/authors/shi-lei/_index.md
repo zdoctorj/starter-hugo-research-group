@@ -4,6 +4,7 @@ role: Senior Research Fellow
 avatar_filename: avatar.jpg
 social: []
 organizations:
+  - name: SMTC
   - name: Aromatic
     url: https://aromatec.biz
 superuser: false
