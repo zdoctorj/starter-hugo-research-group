@@ -3,7 +3,7 @@ title: Wang Rong
 role: President’s Chair in Civil and Environmental Engineering; Director,
   Singapore Membrane Technology Centre, Nanyang Environment and Water Research
   Institute (NEWRI-SMTC)
-avatar_filename: wr.jpg
+avatar_filename: avatar.jpg
 bio: Dr Rong Wang is a Full Professor and President’s Chair in Civil and
   Environmental Engineering at Nanyang Technological University (NTU),
   Singapore. She also holds the position of Director, Singapore Membrane
